@@ -1,8 +1,8 @@
-## Amazon Clone Backend
+## Zoom Clone Backend
 
 This is the backend folder of the Zoom Clone.
 I created the clone using react native for the frontend and nodejs and express for the backend. I used mongoDB for the database.
-Nodejs is the runtime used and expressjs is the framework used. This provides the server-side functionality for managing the Amazon clone.
+Nodejs is the runtime used and expressjs is the framework used. This provides the server-side functionality for managing the Zoom clone.
 
 # Features
 
